@@ -1,0 +1,10 @@
+2025-05-31 20:54:04,710 | INFO | root | Connected to SQLite DB at bot.db
+2025-05-31 20:54:05,072 | INFO | root | Loaded Vosk model from models/vosk-model-small-ru-0.22
+2025-05-31 20:54:05,451 | INFO | root | Telegram bot initialized – waiting for voice messages…
+2025-05-31 20:54:05,702 | INFO | telegram.ext.Application | Application started
+2025-05-31 20:54:14,725 | INFO | root | Voice received: file_id=AwACAgIAAxkBAAP0aDtCSLjPMpLYxPak97HGvU2t4kEAAuxxAALPhNlJLQfyaj-vtEY2BA | from=Lenin_orig
+2025-05-31 20:54:16,224 | INFO | root | Transcribed 44 chars
+2025-05-31 20:54:16,224 | INFO | root | Text: проверяем работают все снова раз раз раз раз
+2025-05-31 20:54:18,168 | INFO | root | Ollama summary len=131
+2025-05-31 20:54:31,803 | INFO | telegram.ext.Application | Application is stopping. This might take a moment.
+2025-05-31 20:54:31,803 | INFO | telegram.ext.Application | Application.stop() complete
